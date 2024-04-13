@@ -40,7 +40,8 @@
     "@stdlib/assert-is-infinite": "^0.2.1",
     "@stdlib/math-base-assert-is-integer": "^0.2.4",
     "@stdlib/math-base-special-deg2rad": "^0.2.1",
-    "@stdlib/math-base-special-tan": "^0.2.2"
+    "@stdlib/math-base-special-tan": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.2.1",
