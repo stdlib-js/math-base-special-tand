@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-20)
+## Unreleased (2024-06-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c88dbaa`](https://github.com/stdlib-js/stdlib/commit/c88dbaaf68dd67dc5bdd7bb71ef9ed4ad01ef42a) - **test:** add missing tests for `math/base/special/tand` [(#2417)](https://github.com/stdlib-js/stdlib/pull/2417) _(by Gunj Joshi)_
 -   [`cb7d879`](https://github.com/stdlib-js/stdlib/commit/cb7d8790c02f7ce9df7d5c22e662d74ad9b95cd9) - **feat:** add C implementation for `math/base/special/tand` [(##2411)](#2411 ) _(by Gunj Joshi)_
 
 </details>
