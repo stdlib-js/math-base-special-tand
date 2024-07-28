@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@deno/mod.js';
+import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@v0.2.0-deno/mod.js';
 ```
 
 #### tand( x )
@@ -79,7 +79,7 @@ v = tand( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@deno/mod.js';
+import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@v0.2.0-deno/mod.js';
 
 var x = linspace( -180, 180, 100 );
 
