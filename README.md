@@ -203,6 +203,13 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-base/special/tan`][@stdlib/math/base/special/tan]</span><span class="delimiter">: </span><span class="description">evaluate the tangent of a number.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/cosd`][@stdlib/math/base/special/cosd]</span><span class="delimiter">: </span><span class="description">compute the cosine of an angle measured in degrees.</span>
+
 </section>
 
 <!-- /.related -->
@@ -282,6 +289,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [trigonometric-functions]: https://en.wikipedia.org/wiki/Trigonometric_functions
 
 <!-- <related-links> -->
+
+[@stdlib/math/base/special/tan]: https://github.com/stdlib-js/math-base-special-tan
+
+[@stdlib/math/base/special/cosd]: https://github.com/stdlib-js/math-base-special-cosd
 
 <!-- </related-links> -->
 
