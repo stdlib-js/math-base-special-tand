@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Computes the [tangent][trigonometric-functions] of an angle measured in degrees.
+> Compute the [tangent][trigonometric-functions] of an angle measured in degrees.
 
 <section class="intro">
 

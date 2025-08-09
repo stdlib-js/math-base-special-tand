@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-08-09)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ede3d64`](https://github.com/stdlib-js/stdlib/commit/ede3d64bb40fb201ad0a6f7e26da23e770e67f71) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`3c14a0f`](https://github.com/stdlib-js/stdlib/commit/3c14a0ff86030c922414336e82cb027deb18d709) - **docs:** replace manual `for` loop in examples [(#6643)](https://github.com/stdlib-js/stdlib/pull/6643) _(by Harsh)_
 -   [`1446cc7`](https://github.com/stdlib-js/stdlib/commit/1446cc7f7868cb001f89e41ee6a2961a72b904f4) - **test:** add tests for IEEE 754-2019 compliance [(#6594)](https://github.com/stdlib-js/stdlib/pull/6594) _(by Karan Anand, stdlib-bot)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
@@ -40,8 +41,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
