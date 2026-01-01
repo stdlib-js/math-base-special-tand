@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-29)
+## Unreleased (2026-01-01)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a55e19f`](https://github.com/stdlib-js/stdlib/commit/a55e19f3343b4a34486a5c109805bbc52e4dbb16) - **test:** replace t.true with t.strictEqual so tests actually check main export _(by Philipp Burckhardt)_
 -   [`83b8bd5`](https://github.com/stdlib-js/stdlib/commit/83b8bd5a0582739dd276a08d8ec5f8e64bc2c3f0) - **chore:** add structured package data  for `math/base/special/tand` [(#8278)](https://github.com/stdlib-js/stdlib/pull/8278) _(by Manvith M)_
 -   [`ede3d64`](https://github.com/stdlib-js/stdlib/commit/ede3d64bb40fb201ad0a6f7e26da23e770e67f71) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`3c14a0f`](https://github.com/stdlib-js/stdlib/commit/3c14a0ff86030c922414336e82cb027deb18d709) - **docs:** replace manual `for` loop in examples [(#6643)](https://github.com/stdlib-js/stdlib/pull/6643) _(by Harsh Yadav)_
