@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@deno/mod.js';
+import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@v0.2.1-deno/mod.js';
 ```
 
 #### tand( x )
@@ -80,7 +80,7 @@ v = tand( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@deno/mod.js';
+import tand from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tand@v0.2.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
